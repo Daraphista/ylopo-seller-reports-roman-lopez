@@ -1,4 +1,10 @@
 {
+  "name": "ylopo-automation",
+  "version": "1.0.0",
+  "main": "automation.js",
+  "scripts": {
+    "start": "node automation.js"
+  },
   "dependencies": {
     "playwright": "^1.55.0"
   }
