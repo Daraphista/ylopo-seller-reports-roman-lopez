@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "ylopo-seller-report-automation.js",
   "scripts": {
-    "start": "node ylopo-seller-report-automation.js"
+    "start": "node wikipedia.js"
   },
   "dependencies": {
     "playwright": "^1.55.0"
